@@ -9,7 +9,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/DMotsios?tab=repositories](https://github.com/DMotsios?tab=repositories)
 
 - 📃 Check out my Udemy Certifications here 
-<a href="https://www.linkedin.com/in/dimitris-motsios-7755a21b2/details/certifications/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.youtube.com%2Fchannel%2FUCzw4hbQIePVtyJQzE_F8QDg&psig=AOvVaw3fEHqJJsw1h6DME5vNp740&ust=1728032865496000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiIo5ru8YgDFQAAAAAdAAAAABAE" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dimitris-motsios-7755a21b2/details/certifications/" target="blank"><img align="center" src="https://yt3.googleusercontent.com/8kmI-l1suZxgItpAe359N-jJCBct1PXe99e04kTit8XWE3D_pBnctd6pEiwwmapHbDMmC21E45Q=s900-c-k-c0x00ffffff-no-rj" height="30" width="40" /></a>
 
 - 📫 How to reach me
 <a href="mailto:motsiosd@gmail.com" target="blank"><img align="center" src="https://e7.pngegg.com/pngimages/794/124/png-clipart-white-and-blue-application-logo-microsoft-outlook-outlook-com-hotmail-email-microsoft-blue-angle-thumbnail.png" height="30" width="40" /></a>
